@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "float.h": "c",
+    "points.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
