@@ -32,3 +32,4 @@ To call the program:
 
 ## Tests
 Here are some examples of the functions and the program-generated approximation graphs:
+![img](https://github.com/czaacza/Hermite-Approximation/blob/main/gnuplot-images/image15.png)
