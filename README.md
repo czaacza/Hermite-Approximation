@@ -32,4 +32,17 @@ To call the program:
 
 ## Tests
 Here are some examples of the functions and the program-generated approximation graphs:
-![img](https://github.com/czaacza/Hermite-Approximation/blob/main/gnuplot-images/image15.png)
+
+Fourth-degree function:
+
+![fourth-degree function](https://github.com/czaacza/Hermite-Approximation/blob/main/gnuplot-images/image27.png)
+
+Power 2^x function:
+
+![power function 2^x](https://github.com/czaacza/Hermite-Approximation/blob/main/gnuplot-images/image16.png)
+
+Constant function:
+
+![constant function](https://github.com/czaacza/Hermite-Approximation/blob/main/gnuplot-images/image15.png)
+
+
